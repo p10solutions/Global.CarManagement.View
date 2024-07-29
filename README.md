@@ -11,4 +11,4 @@ Passo a Passo:
 
 3. Execute o projeto com o seguinte comando <b>dotnet Global.CarManagement.View.Api.dll</b> ou se preferir acesse a solução pelo <b>Visual Studio</b>.
 
-4. Execute o arquivo index.html na raiz deste repositório para acompanhar a lista dos carros que são cadastrados.
+4. Execute o arquivo <b>View.html</b> na raiz deste repositório para acompanhar a lista dos carros que são cadastrados.
